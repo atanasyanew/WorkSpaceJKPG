@@ -14,6 +14,9 @@ For the platform enable businesses to receive rating based on customers experien
 More information about the project available in [docs folder](https://github.com/atanasyanew/WorkSpaceJKPG/tree/master/docs/)
 
 ### Installation
+TODO: fix docker file :)
+
+
 The application is containerized with Docker
 ```
 docker-compose build
