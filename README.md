@@ -24,7 +24,7 @@ docker-compose up
 	- username: **admin**
 	- password: **admin**
 
-Application is build on top of WordPress, also phpMyAdmin included within the docker container witch can be acceses on port 800 with the following credentials username: **user** password: **test**
+Application is build on top of WordPress, also phpMyAdmin included within the docker container witch can be acceses on port 8000 with the following credentials username: **user** password: **test**
 
 ### Screenshots
 
