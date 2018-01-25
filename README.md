@@ -2,7 +2,7 @@ WorkSpaceJKPG <a href=""><img src="docs/logo.gif" title="Logo" align="right" hei
 ======
 
 ### Description
-Project for Innovation Days Jönköping, 2017
+Project related to my participation in Innovation Days of Jönköping, 2017
 
 The [Innovation Days](https://www.facebook.com/inndays/) connect entrepreneurs with companies to foster innovation and collaboration. In a 48-hour workshop participants pitch ideas, form teams, and build prototypes that will transform companies and communities. Check the official website for more inforation [Official web](http://innovationdays.org/)
 
@@ -23,15 +23,20 @@ docker-compose build
 docker-compose up
 ```
 
-- Application url:  **http://localhost:8001**, credentials: 
-	- username: **admin**
-	- password: **admin**
+Application url:  **http://localhost:8001**, credentials: 
+- username: **admin**
+- password: **admin**
 
 Application is build on top of WordPress, also phpMyAdmin included within the docker container witch can be acceses on port 8000 with the following credentials username: **user** password: **test**
 
 ### Screenshots
 
-![HHIB](docs/screenshots/Screenshot_20170217.png "mobile")
+![HHIB](docs/screenshots/2018-01-25_01.png "home")
+![HHIB](docs/screenshots/2018-01-25_02.png "What Are you intrested in?")
+![HHIB](docs/screenshots/2018-01-25_03.png "Explore places")
+![HHIB](docs/screenshots/2018-01-25_04.png "Details place information")
+
+
 
 
 
