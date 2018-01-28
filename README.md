@@ -23,11 +23,11 @@ docker-compose build
 docker-compose up
 ```
 
-Application url:  **http://localhost:8001**, credentials: 
+Application url:  **http://localhost**, credentials: 
 - username: **admin**
 - password: **admin**
 
-Application is build on top of WordPress, also phpMyAdmin included within the docker container witch can be acceses on port 8000 with the following credentials username: **user** password: **test**
+Application is build on top of WordPress, also phpMyAdmin included within the docker container witch can be acceses on port 8000 with the following credentials username: **root** password: **root**
 
 ### Screenshots
 

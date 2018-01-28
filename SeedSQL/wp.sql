@@ -234,10 +234,10 @@ CREATE TABLE `wpoptions` (
 --
 
 INSERT INTO `wpoptions` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES
-(1, 'siteurl', 'http://localhost/workspacejkpg', 'yes'),
-(2, 'home', 'http://localhost/workspacejkpg', 'yes'),
+(1, 'siteurl', 'http://localhost', 'yes'),
+(2, 'home', 'http://localhost', 'yes'),
 (3, 'blogname', 'WorkSpaceJKPG', 'yes'),
-(4, 'blogdescription', 'Just another WordPress site', 'yes'),
+(4, 'blogdescription', 'Digital nomads platform helps remote workers who want to find perfect working spaces', 'yes'),
 (5, 'users_can_register', '0', 'yes'),
 (6, 'admin_email', 'atanas.yanew@gmail.com', 'yes'),
 (7, 'start_of_week', '1', 'yes'),
