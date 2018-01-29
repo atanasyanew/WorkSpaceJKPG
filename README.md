@@ -14,10 +14,7 @@ For the platform enable businesses to receive rating based on customers experien
 More information about the project available in [docs folder](https://github.com/atanasyanew/WorkSpaceJKPG/tree/master/docs/)
 
 ### Installation
-TODO: fix docker file :)
-
-
-The application is containerized with Docker
+Application is containerized with Docker
 ```
 docker-compose build
 docker-compose up
@@ -27,7 +24,7 @@ Application url:  **http://localhost**, credentials:
 - username: **admin**
 - password: **admin**
 
-Application is build on top of WordPress, also phpMyAdmin included within the docker container witch can be acceses on port 8000 with the following credentials username: **root** password: **root**
+Application is build on top of WordPress, also phpMyAdmin included within the docker container witch can be acceses on port **8000** with the following credentials username: **root** password: **root**
 
 ### Screenshots
 
